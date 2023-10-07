@@ -249,53 +249,12 @@
   display: flex;
   gap: 8px;
   color: $white-normal;
-}
+  
 
-
-.btn-whathsapp{
-  position: fixed;
-  bottom: 10px;
-  right: 10px;
-  z-index: 99;
- 
-
-   img{
-    width: 60px;
-    height: 60px;
-    max-width: 74px;
-    transition: 0.5s;
-   }
-
-   img:hover{
-    transform: scale(1.1);
-   }
-}
-
-.btn-whathsapp .tooltip-text{
-  visibility: hidden;
-  position:absolute;
-  color: $white-normal;
-  width: 120px;
-  top:8;
-  left: -144px;
-  background-color: $black-normal;
-  padding: 6px;
-  text-align: center;
-  border-radius: 10px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.btn-whathsapp:hover .tooltip-text{
-  visibility: visible;
-  opacity: 1;
-}
-
-@media screen and (max-width:768px) {
-  .btn-whathsapp{
-
-    img{
-      max-width: 50px;
-    }
+  p{
+    font-size: 15px;
   }
 }
+
+
+

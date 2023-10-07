@@ -17,6 +17,7 @@ body{
   height: 100vh;
   position: relative;
   background-color: $primary-normal;
+  overflow-x: hidden;
 }
 
 button{
