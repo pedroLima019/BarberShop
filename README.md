@@ -10,5 +10,4 @@ JavaScript
 ### Demo:
 Uma versão demo da Landing Page da Barbershop : https://barber-shop-ss.vercel.app/ 
 
-![Exemplo de Captura de Tela](C:\Users\pedro\Pictures\Screenshots)
 
